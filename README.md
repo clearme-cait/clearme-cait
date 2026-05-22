@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-- 💬 Ask me about AWS, Terraform, Kubernetes, or Hashicorp Vault
+💬 Ask me about 
+- Datadog and SLOs
+- My agentic development workflow
+- AWS and Kubernetes
+- Pulumi and Terraform
+- My cats~
+- Ye olde Hashicorp Vault
 
 <!--
 **clearme-caitlin/clearme-caitlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
